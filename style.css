@@ -1,0 +1,40 @@
+h1 {
+  color: goldenrod;
+  text-align: center;
+  font-size: 72px;
+  -webkit-text-fill-color: gold;
+  -webkit-text-stroke: 1px black;
+  text-shadow: 2px 2px #ff0000;
+}
+
+body {
+  background-color: limegreen;
+}
+
+.name {
+  color: magenta;
+  font-size: 150px;
+  position: absolute;
+  top: 250px;
+  left: 100px;
+}
+
+.nametag {
+  position: relative;
+}
+
+.borzoi {
+  position: relative;
+  text-align: right;
+}
+
+.whatsup {
+  font-size: 80px;
+  position: absolute;
+  top: 480px;
+  left: 700px;
+  font-family: "courier new";
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 3px black;
+  font-weight: 600;
+}
